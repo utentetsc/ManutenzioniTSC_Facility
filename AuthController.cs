@@ -1,0 +1,1 @@
+namespace TheSpace.Api.Controllers; public class AuthController {}

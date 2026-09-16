@@ -1,0 +1,1 @@
+namespace TheSpace.Api.Data; public class ApplicationDbContext {}
